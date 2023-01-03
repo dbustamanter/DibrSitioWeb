@@ -72,7 +72,7 @@ h4 {
 }
 
 /**Botones**/
-.boton {
+.button {
   color: white;
   font-weight: 300;
   text-decoration: none;
@@ -84,7 +84,7 @@ h4 {
   border: none;
   border-radius: 1.2rem;
 }
-.boton:hover{
+.button:hover{
     cursor: pointer;
 }
 
